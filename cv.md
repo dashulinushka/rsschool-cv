@@ -47,12 +47,20 @@ function arrayDiff(a, b) {
 ```
 
 ## Work Experience
-**ʕᵔᴥᵔʔ** *currently unavailable* **ʕᵔᴥᵔʔ**
-            *will appear later*
+**ʕᵔᴥᵔʔ** *currently unavailable* **ʕᵔᴥᵔʔ** *will appear later*
+- [CV](https://github.com/dashulinushka/rsschool-cv/blob/gh-pages/cv.md)
 
 ## Education
-* Belarusian State University of Informatics and Radioelectronics:
+* **Belarusian State University of Informatics and Radioelectronics**:
     * a *programmer-economist*
     * a *third* year student
     * average score *9.28/10*
-    * the expected date of graduation July *2026*
+    * the expected date of graduation *July 2026*
+
+## Languages
+### Native
+- Russian
+- Belorussian
+### Foreign
+- English **A2**
+- German **A2**
