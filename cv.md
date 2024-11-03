@@ -15,3 +15,32 @@ I am currently studying at BSUIR as a *programmer-economist* in the 3rd year. I 
 - Version control: **Git** (**GitHub** remote service)
 - Development tools: **VSCode**
 - Figma, Illustrator as an auxiliary tool
+
+## Code Examples
+```
+function arrayDiff(a, b) {
+  // wrong: for (let i = 0; i < a.length; i++){}
+  // wrong: return a.filter(item => item!=b)
+  // wrong: return a.filter(item => item.a!=b)
+  // wrong: return a.filter(item => !item.b)
+  // right return a.filter(item => !b.includes(item));
+  let result = [];
+  
+  for (let item of a){
+    let isB = false;
+    
+    for (let elem of b){
+      if(item === elem){
+        isB = true;
+        break;
+      }
+    }
+    
+    if (!isB){
+      result.push(item);
+    }
+  }
+  
+  return result;
+}
+```
