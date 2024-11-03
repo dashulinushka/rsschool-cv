@@ -4,7 +4,7 @@
 - **Address**: Minsk, Belarus 
 - **E-mail**: [darya.babich11@gmail.com](https://darya.babich11@gmail.com)
 - **LinkedIn**: [darya-babich](https://www.linkedin.com/in/darya-babich)
-- **Discord**: dashulinushka
+- **Discord**: dashulinushka 
 
 ## Self-Introduction
 I am currently studying at BSUIR as a *programmer-economist* in the 3rd year. I am interested in further training on *frontend developer*. There is a great desire to get *new knowledge and master technologies* in this direction. At the moment, *the main goal* is to learn the *Java Script*, as well as the *React* framework
@@ -15,7 +15,7 @@ I am currently studying at BSUIR as a *programmer-economist* in the 3rd year. I 
 - **JavaScript**
 - Version control: **Git** (**GitHub** remote service)
 - Development tools: **VSCode**
-- Figma, Illustrator as an auxiliary tool
+- Figma, Illustrator as an auxiliary tools
 
 ## Code Examples
 ```
@@ -47,7 +47,7 @@ function arrayDiff(a, b) {
 ```
 
 ## Work Experience
-**ʕᵔᴥᵔʔ** *currently unavailable* **ʕᵔᴥᵔʔ** *will appear later*
+**ʕᵔᴥᵔʔ** *currently unavailable, will appear later* **ʕᵔᴥᵔʔ** 
 - [CV](https://github.com/dashulinushka/rsschool-cv/blob/gh-pages/cv.md)
 
 ## Education
