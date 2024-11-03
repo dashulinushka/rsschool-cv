@@ -44,3 +44,7 @@ function arrayDiff(a, b) {
   return result;
 }
 ```
+
+## Work Experience
+**ʕᵔᴥᵔʔ** *currently unavailable* **ʕᵔᴥᵔʔ**
+            *will appear later*
